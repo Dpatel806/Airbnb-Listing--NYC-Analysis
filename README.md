@@ -61,7 +61,7 @@ This analysis highlights crucial factors driving Airbnb success in NYC, includin
 ---
 
 ## Author
-[Dhaval Patel]
+Dhaval Patel 
 [dhavalpatel6996@gmail.com] Linkedin[https://www.linkedin.com/in/dhaval-patel-882259287/]
 
 ---
